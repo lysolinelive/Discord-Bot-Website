@@ -15,33 +15,7 @@ export default function Index() {
         <p className="animateHeader text-white text-opacity-50 text-center mt-5">
        How about moderating your own server with Lysoline bot? Create your own free world and create your own playlist, experience this pleasure with the best sounds. 
 	  </p>
-        <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
-  
-            <Link href={"https://bit.ly/3PHDjyC"}>
-              <a
-                className={
-                  "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
-                }
-              >
-          Invite Lysoline
-              </a>
-            </Link>
-  <div className="py-10"></div>
-  <Link href={"https://discord.gg/UUwP84WD"}>
-  <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Lysoline</a>
-  </Link>
-        </div>
-
-        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag pointer-events-none opacity-10 -left-[10vw] absolute top-[8vw] h-[35vw] flex-shrink-0 grayscale rotate-[1deg]">
-        <Image width="600" height="600" src="/img/gift-left.png"  />
-        </div>
-        <div style={{ zIndex: '-1' }} className="hidden xl:block undrag opacity-10 pointer-events-none -right-[15vw] absolute top-[13vw] h-[90vw] grayscale -rotate-9">
-        <Image  width="600" height="600" src="/img/gift-right.png"  />
-        </div>
-      </div>
-
-
+        
 
       <div className="grid grid-cols-1 lg:grid-cols-12 gap-y-12 lg:gap-y-0 lg:gap-x-12 py-24">
           <div className="col-span-4">
