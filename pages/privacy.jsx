@@ -7,11 +7,11 @@ export default function Privacy() {
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ To use the Astra bot, you must define the necessary permissions when adding it to your discord server. <a className="text-white">(READ MESSAGES, SEND MESSAGES, EMBED LINKS, ATTACH FILES, READ MESSAGE HISTORY, CONNECT, SPEAK, USE VOICE ACTIVITY, PRIORITY SPEAKER)</a></p>
         <div className="py-3"></div>
-        <p>⊳ You have to vote for the <a className="text-white" href="https://top.gg/bot/924325576095973426/vote">Astra</a> bot when using certain commands from the bot commands.</p>
+        <p>⊳ You have to vote for the <a className="text-white" href="">Lysoline</a> bot when using certain commands from the bot commands.</p>
         <div className="py-3"></div>
         <p>⊳ Every user can use the astra bot however they want, as long as they do not intend to harm.</p>
         <div className="py-3"></div>
-        <p>⊳ You cannot use certain commands at the same time while using Astra.</p>   
+        <p>⊳ You cannot use certain commands at the same time while using Lysoline.</p>   
         <div className="py-3"></div>
         <p>⊳ Astra bot does not save any data based on users.</p>
         <div className="py-3"></div>
