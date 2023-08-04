@@ -75,11 +75,7 @@ export default function Commands() {
                     </Menu.Item>
             ))}
               
-        </div>
-              </Menu.Items>
-            </Transition>
-          </Menu>
-        </div>
+        </div>  
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
