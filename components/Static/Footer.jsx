@@ -48,7 +48,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Links</p>
                             <div>
-                                <Link href="https://bit.ly/3LYzaDe">
+                                <Link href="https://discord.gg/UUwP84WD">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                         Vote Bot
                                     </a>
@@ -70,7 +70,7 @@ export default function Footer() {
                             <div>
                                 <Link href="https://discord.gg/UUwP84WD">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    <i className={`fa-brands fa-discord`} /> Disocrd 
+                                    <i className={`fa-brands fa-discord`} /> Discord 
                                     </a>
                                 </Link>
                             </div>                               
