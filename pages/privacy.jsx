@@ -9,11 +9,11 @@ export default function Privacy() {
         <div className="py-3"></div>
         <p>⊳ You have to vote for the <a className="text-white" href="">Lysoline</a> bot when using certain commands from the bot commands.</p>
         <div className="py-3"></div>
-        <p>⊳ Every user can use the astra bot however they want, as long as they do not intend to harm.</p>
+        <p>⊳ Every user can use the lysoline bot however they want, as long as they do not intend to harm.</p>
         <div className="py-3"></div>
         <p>⊳ You cannot use certain commands at the same time while using Lysoline.</p>   
         <div className="py-3"></div>
-        <p>⊳ Astra bot does not save any data based on users.</p>
+        <p>⊳ Lysoline bot does not save any data based on users.</p>
         <div className="py-3"></div>
         <p>⊳ While using the bot, your user ID is saved and deleted in the system for 60 seconds for once.</p> 
     
