@@ -64,13 +64,13 @@ export default function Commands() {
               <Menu.Items className="z-1 custom-scroll absolute left-0 w-full mt-2 origin-top-right bg-black overflow-auto max-h-60 border border-black border-opacity-20 bg-opacity-95 rounded-lg p-1">
                 <div className="px-1 py-1 w-full">
 
-            {commands.map(astra => (
+            {commands.map(lysoline => (
 
                 <Menu.Item>
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {astra}</>
+                         {lysoline}</>
                     </button>
                     </Menu.Item>
             ))}
